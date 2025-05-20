@@ -13,7 +13,7 @@ deployAs:
           description: "commercetools project key description"
           required: true
         - key: CTP_CLIENT_ID
-          description: "commercetools client ID with required scopes"
+          description: "commercetools client ID with required scopes description"
           required: true
         - key: CTP_AUTH_URL
           description: "commercetools Auth URL"
